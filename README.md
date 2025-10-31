@@ -1,6 +1,7 @@
 # Simple Library (Dart)
-
-A small example project demonstrating **Encapsulation**, **Inheritance**, **Mixins**, and **Polymorphism** in Dart.  
+![Dart](https://img.shields.io/badge/Dart-2.19-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+<br>A small example project demonstrating **Encapsulation**, **Inheritance**, **Mixins**, and **Polymorphism** in Dart.  
 This project simulates a minimal library system with `Book`, `Member`, `Student`, and `Librarian` classes.
 
 ---
@@ -109,6 +110,10 @@ dart run bin/main.dart
 | **Inheritance**   | `Librarian` and `Student` both inherit from the abstract `Member` class       |
 | **Mixin**         | `Logger` mixin provides a reusable `log()` method                             |
 | **Polymorphism**  | Both `Librarian` and `Student` override the `borrowBook()` method differently |
+
+---
+## output screen
+<img width="780" height="322" alt="image" src="https://github.com/user-attachments/assets/00fb2df4-6278-4173-be1c-4a70efb57465" />
 
 ---
 
